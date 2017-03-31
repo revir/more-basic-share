@@ -1,3 +1,6 @@
+# Update
+V2MM 社区已不再使用本插件，[need-more-share2](https://github.com/revir/need-more-share2)取而代之。
+
 # more-basic-share
 
 这个插件是对[青谷](https://www.qinco.net/basicshare)的 basicshare.js 的增强，特别感谢[青谷](https://www.qinco.net)。
